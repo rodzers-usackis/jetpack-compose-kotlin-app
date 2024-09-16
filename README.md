@@ -1,7 +1,4 @@
 # Programming 2.3 Self Research Project
-Student: Rodžers Ušackis ACS201  
-Student ID: 0150085-26  
-Contact: rodzers.usackis@student.kdg.be
 
 ## Project Description
 ### A Proof-Of-Concept project regarding the Jetpack Compose UI Development Kit for Android.
